@@ -1,0 +1,5 @@
+part,daily_usage,usable_stock,base_recovery,severe_recovery,extra_stock,mitigated_severe_recovery
+Power controller,100,400,9,16,0,7
+Wiring harness,180,540,5,8,540,8
+Seat frame,160,800,4,6,0,6
+Fastener kit,300,2100,3,5,0,5
